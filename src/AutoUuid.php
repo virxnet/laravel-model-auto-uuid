@@ -1,6 +1,6 @@
 <?php
 
-namespace VirX\LaravelModelAutoUuid;
+namespace VirX\LaravelModel;
 
 use Illuminate\Support\Str;
 
