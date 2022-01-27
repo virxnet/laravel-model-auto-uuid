@@ -9,7 +9,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "VirX\\LaravelModelAutoUuid\\": "src/"
+            "VirX\\LaravelModel\\": "src/"
         }
     },
     "authors": [
