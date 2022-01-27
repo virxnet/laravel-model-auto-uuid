@@ -1,0 +1,21 @@
+{
+    "name": "virx/laravel-model-auto-uuid",
+    "description": "Laravel Model Auto UUID",
+    "type": "library",
+    "require": {
+        "php": "^7.0|^8.0",
+        "illuminate/support": "6.*|^7.0|^8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "VirX\\LaravelModelAutoUuid\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Antony Peiris",
+            "email": "asp@virx.net"
+        }
+    ]
+}
